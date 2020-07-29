@@ -1,0 +1,23 @@
+.navbar .navbar-brand{
+    font-size: 32px;
+} 
+.seccion-1{
+        background-image: url(img/e2f6b36b5bc98bf80625c91549a76075.jpg  );
+}
+.pintro{
+     color: grey;
+}
+.textop h2{
+    font-size: 60px;
+    padding-bottom: 10px;
+    font-style: normal ;
+
+}
+.textop{
+    padding-top: 140px
+}
+.button
+.btn-primary{
+    border-radius:50px !important;
+    padding : 50px 80px !important
+}
